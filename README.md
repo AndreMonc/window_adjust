@@ -1,5 +1,4 @@
-# window_adjust.py: a program to adjust genomic window sizes along with average 
-# window values.
+# window_adjust.py: a program to adjust genomic window sizes along with average window values.
 
 
 ## Overview 
